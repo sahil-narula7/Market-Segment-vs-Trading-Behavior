@@ -17,6 +17,8 @@ The output is provided as:
 - Recommended operating approach: scale activity for lower-leverage, more consistent profiles.
 - Recommended operating approach: monitor long/short skew as a crowding signal.
 
+  **Live Demo:** [https://equity-intelligence-engine.streamlit.app](https://market-segment-vs-trading-behavior.streamlit.app)
+
 ---
 
 ## Graphs Included
